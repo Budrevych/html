@@ -1,1 +1,4 @@
+<<<<<<< HEAD
+Hello, I'm octopus!
 I have glasses.txt
+And I have hat.txt!
